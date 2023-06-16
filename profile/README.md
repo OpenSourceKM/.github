@@ -2,7 +2,7 @@
 
 🙋‍♀️ 这里是 【OSKM 开源知识地图】 项目团队的主页
 
-🌈 我们的目标是构建开源领域的知识地图 ([预览](oskm.zetaa.cc/map/))，为个人及组织在开源世界提供导航，并专注于此目标的可持续达成。
+🌈 我们的目标是构建开源领域的知识地图 ([预览](https://oskm.zetaa.cc/map/))，为个人及组织在开源世界提供导航，并专注于此目标的可持续达成。
 
 [//]: # (此 ASCII ART 由 https://patorjk.com/software/taag/#p=display&f=Alpha&t=OSKM 生成)
 ````
